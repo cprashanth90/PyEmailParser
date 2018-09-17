@@ -1,0 +1,6 @@
+﻿homepage_regex = \<a class="jobtitle tap_item_link" href="([^\;]*)&amp.*
+jobkey_regex = \<a class="jobtitle tap_item_link" href=".*jk=([^\;]*)&amp.*
+jobtitle_regex = \<a class="jobtitle tap_item_link" href=.*>(.*)<\/a>
+job_age_regex = \<span class="job_age" style="color\:\#666\;">[\r\n]*<a href.*>(.*)<\/a>
+company_regex = \<span class="job_company">(.*)</span>
+job_location_regex = \<span style="color\:\#666\;">[\r\n]*<a href.*>(.*)<\/a>

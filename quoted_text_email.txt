@@ -1,0 +1,925 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: sriramchander@gmail.com
+Received: by 10.36.146.193 with SMTP id l184csp3600099itd;
+        Wed, 16 Sep 2015 07:33:59 -0700 (PDT)
+X-Received: by 10.182.16.135 with SMTP id g7mr23901545obd.67.1442414034481;
+        Wed, 16 Sep 2015 07:33:54 -0700 (PDT)
+Return-Path: <alert@indeed.com>
+Received: from mail70.indeed.com (mail70.indeed.com. [198.58.75.70])
+        by mx.google.com with ESMTP id m204si13045937oia.97.2015.09.16.07.33.54
+        for <sriramchander@gmail.com>;
+        Wed, 16 Sep 2015 07:33:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of alert@indeed.com designates 198.58.75.70 as permitted sender) client-ip8.58.75.70;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of alert@indeed.com designates 198.58.75.70 as permitted sender) smtp.mailfrom=alert@indeed.com;
+       dkim=pass header.i=@indeed.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=indeed.com
+Received: from indweb40 (indweb40.indeed.net [10.1.1.140])
+	by mail70.indeed.com (Postfix) with ESMTP id 14102C2A3D
+	for <sriramchander@gmail.com>; Wed, 16 Sep 2015 09:33:54 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple; t42414034;
+	s�fault; d=indeed.com; i=@indeed.com;
+	h�te:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=Cw2CSPlSNnY9/sV5s9H4SNe9+H2JOtebHbPysp/p6m4=;
+	b=tCdIWbo6BULkFiHvy4TdorKIZwBO8P9KvV+x0825eu88FLk8emvPkEwsePfii+4K
+	e4q1H9SlSj71fJUq3j/OM2DDbpja151zD7cuD6s900lzFkKeExQ10Ne0Lev7q/pw89G
+	MLBLb7/xm6PwkZjtCJBnD962QUl/ki4GsAoSO77QDate: Wed, 16 Sep 2015 09:33:54 -0500 (CDT)
+From: Indeed Job Alert  <alert@indeed.com>
+Reply-To: do-not-reply@indeed.com
+To: sriramchander@gmail.com
+Message-ID: <b90a9a3a97a5c5f0.1442414034077.SendAlerts.tomcat@indweb40>
+Subject: 30+ new data analyst opportunities in California
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Indeed-Alert: b90a9a3a97a5c5f0
+
+<!DOCTYPE html>
+<html><head>
+<style type="text/css">
+    a,a:link{color:#00c}
+    .nolink{unicode-bidi: embed;}
+    
+    a[href=""] {-webkit-touch-callout:none;-webkit-tap-highlight-color:rgba(0,0,0,0);cursor:default;}
+
+    *[class].image_ad_desktop {
+        max-width: 688px;
+        height: auto;
+    }
+</style>
+<style type="text/css">
+        a,a:link{color:#00c}@media only screen and (max-width:800px){html,body{margin:0;overflow-x:hidden;min-width:100%;padding:0}*[class].desktop{display:none !important}*[class].section_header{padding:6px 10px !important;font-size:100% !important;display:block;background-color:#EEE;color:#222 !important;font-weight:bold;text-decoration:none;margin:0}*[class].section_header a{text-decoration:none;color:#222}a[class].jobtitle{color:#000;font-weight:bold;font-size:16px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;position:absolute;padding-top:5px;padding-left:10px}*[class].alert_title{font-size:16px;color:#444 !important;margin-bottom:0 !important;margin-top:6px;margin-left:10px}*[class].job_company_location_wrapper{margin-top:15px}*[class].job_company{font-size:14px}*[class].job{font-size:smaller;border-top:1px solid #dedede !important;border-bottom:0 !important;padding:7px 28px 7px 10px;position:relative;text-decoration:none;margin:0 !important}*[class].tap_item{position:relative;background-repeat:no-repeat;background-position:97% 50%;background-color:#fff;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAANCAIAAAAboLhvAAAABnRSTlMA/wD/AP83WBt9AAAAfElEQVQYV2XQMQtGERTG8fPRLQYpIoPF7GsZDVKUxXLvOdft9r48ZfD/DQqMMUIIKaXrf+C9Z4xxzjcDrTV7thm01owxpwGe3ru1djOCZc65X3sBh5cFOHz4hVKKUmpVKWXOmeCsGKHWelaCrwohvkqA/3FWgjlnjHGruBsKXPPQp1ND2gAAAABJRU5ErkJggg==)}*[class].tap_item_link{width:100%;height:100%;top:0;left:0;position:absolute;color:#000;text-decoration:none;font-weight:bold}*[class].job_age{color:#848484;font-size:14px;text-decoration:none}*[id]#job_header{margin-left:10px}*[id]#related_job_header{margin-left:10px}hr{margin-left:-10px;margin-right:-10px}*[class].indeed_footer{font-size:9px;text-align:center}*[id]#job_results{width:100%;padding-top:0 !important}*[id]#recJobs{width:100% !important}*[class].mobile_promo{margin-left:10px !important}*[id]#p10dRecPromo{border-top:1px solid #dedede;margin:0 !important;height:29px;padding-top:9px}*[id]#p10d_promo_decoration{display:none}*[id]#p10d_promo_link{color:#000;padding-top:10px;padding-left:10px}*[id]#alert_actions{list-style-type:none;margin-left:10px !important}*[id]#bot_view_jobs_bar{border-top:1px solid #dedede;font-size:16px !important;font-weight:bold;padding-top:10px;padding-bottom:10px;margin-bottom:0 !important}*[id]#bot_view_jobs_label{width:100%;height:100%;top:0;font-weight:bold;font-size:16px;cursor:auto !important;padding:10px 2px 21px 10px}*[id]#bot_view_jobs_link{width:100%;height:100%;top:0;position:absolute;color:#000;text-decoration:none;font-weight:bold;font-size:16px;padding-left:2px;padding-top:11px}}#follow_cmp_promo.show-pc-promo{display:block}#follow_cmp_promo.hide-pc-promo{display:none}#follow_cmp_promo.show-pc-promo .show-pc-button{display:block}#follow_cmp_promo.show-pc-promo .hide-pc-button{display:none}@media only screen and (max-width:800px){*[id]#follow_cmp_promo.show-mobile-promo{display:block;margin-left:10px}*[id]#follow_cmp_promo.hide-mobile-promo{display:none}*[id]#follow_cmp_promo.show-mobile-promo .show-mobile-button{display:block;margin:0 10px 10px 10px}*[id]#follow_cmp_promo.show-mobile-promo .hide-mobile-button{display:none}}
+            @media only screen and (max-width: 800px) {
+                *[class].snippet {
+                    display: none!important;
+                }
+            }
+        
+        @media only screen and (max-width: 800px) {
+            *[class].image_ad_desktop {
+                display: none!important;
+            }
+            *[class].company_info_container {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+        }
+        
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_453b3204fdb33c7a8d39c6ff672958da {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_453b3204fdb33c7a8d39c6ff672958da {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_453b3204fdb33c7a8d39c6ff672958da {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_453b3204fdb33c7a8d39c6ff672958da {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_453b3204fdb33c7a8d39c6ff672958da {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_bbe603f471fb42ad4ea09f077e9720e4 {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_bbe603f471fb42ad4ea09f077e9720e4 {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_bbe603f471fb42ad4ea09f077e9720e4 {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_bbe603f471fb42ad4ea09f077e9720e4 {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_bbe603f471fb42ad4ea09f077e9720e4 {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_f144ca4f3825425e86b792d9c6b1bc04 {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_f144ca4f3825425e86b792d9c6b1bc04 {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_f144ca4f3825425e86b792d9c6b1bc04 {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_f144ca4f3825425e86b792d9c6b1bc04 {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_f144ca4f3825425e86b792d9c6b1bc04 {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_5b798192f609dcb6d7598a37ce0ad1da {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_5b798192f609dcb6d7598a37ce0ad1da {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_5b798192f609dcb6d7598a37ce0ad1da {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_5b798192f609dcb6d7598a37ce0ad1da {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_5b798192f609dcb6d7598a37ce0ad1da {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_c9a5033e9b357b72bade6e1bafebf504 {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_c9a5033e9b357b72bade6e1bafebf504 {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_c9a5033e9b357b72bade6e1bafebf504 {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_c9a5033e9b357b72bade6e1bafebf504 {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_c9a5033e9b357b72bade6e1bafebf504 {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_c81a1d9cc4b0e2044616807c0408f866 {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_c81a1d9cc4b0e2044616807c0408f866 {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_c81a1d9cc4b0e2044616807c0408f866 {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_c81a1d9cc4b0e2044616807c0408f866 {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_c81a1d9cc4b0e2044616807c0408f866 {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_815ed464421f676d23ac69779a9c892a {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_815ed464421f676d23ac69779a9c892a {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_815ed464421f676d23ac69779a9c892a {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_815ed464421f676d23ac69779a9c892a {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_815ed464421f676d23ac69779a9c892a {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+
+    @media only screen and (max-width: 800px) {
+        *[id]#image_ad_4b544c8fb756d628ff2d86e9ab3aba93 {
+            min-height:80px;
+            min-width:750;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&hide_snippet=1&mobile=1&retina=1&width=750");
+            background-size:contain;
+            background-repeat: no-repeat;
+            border-top: 1px solid #DEDEDE;
+        }
+    }
+    @media only screen and (max-width: 700px) {
+        *[id]#image_ad_4b544c8fb756d628ff2d86e9ab3aba93 {
+            min-width:650;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&hide_snippet=1&mobile=1&retina=1&width=650");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        *[id]#image_ad_4b544c8fb756d628ff2d86e9ab3aba93 {
+            min-width:550;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&hide_snippet=1&mobile=1&retina=1&width=550");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 500px) {
+        *[id]#image_ad_4b544c8fb756d628ff2d86e9ab3aba93 {
+            min-width:450;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&hide_snippet=1&mobile=1&retina=1&width=450");
+            background-size:contain;
+        }
+    }
+    @media only screen and (max-width: 400px) {
+        *[id]#image_ad_4b544c8fb756d628ff2d86e9ab3aba93 {
+            
+            min-width:350;
+            background-image: url("http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&hide_snippet=1&mobile=1&retina=1&width=350");
+            background-size:contain;
+        }
+    }
+
+</style>
+<style type="text/css" >
+        @media only screen and (max-width: 800px) {
+            *[id]#responsive_css_ping { background-image: url(http://www.indeed.com/ja/respcss.png?tk=19vb96v1k1q7m8n3); }
+        }
+    </style>
+<meta name="viewport" content="width = device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+</head><body style="background:#fff">
+<div style="font-family:Arial,sans-serif;direction:ltr">
+<div style="margin-left:0;margin-top:24px;margin-bottom:12px;">
+	<a href="http://www.indeed.com">
+		<img src="http://www.indeed.com/images/email/indeed.gif" width="87px" height="24px" alt="Indeed" style="text-decoration: none; border: 0px">
+	</a>
+</div><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr>
+        <td valign="top" style="font-family:Arial,sans-serif">
+            <div style="margin-bottom:0.5em; font-size:18px;" class="alert_title">
+                <a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">data analyst jobs in California</a></div>
+        </td>
+    </tr>
+</table>
+<hr noshade size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<div class="desktop" style="margin:1em 0;">
+                    <span style="font-weight:bold;font-size:140%;color:#f60;line-height:0.5">&raquo;</span>
+                    <span style="font-size:13px;"><a style="font-size:13px; font-weight:bold;" href="http://www.indeed.com/promo/companyPhotos?url=%2Fcmp%2FColorado-School-of-Mines%2Fupload-photos&h=e8d0e5f728ec8c27&trk.origin=jobalertsearch&trk.pos=jobalert&trk.tk=19vb96v1k1q7m8n3&campaignid=resjobalert-photos">Upload your photos of COLORADO SCHOOL OF MINES</a></span>
+                </div><hr class="desktop" noshade size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc"><div id="job_header" style="font-size:13px; margin-bottom: 10px" class="job_count_title">Jobs <b>1-30</b> of <b>274 new jobs</b></div>
+
+<table id="job_results" cellpadding=0 cellspacing=0 border=0><tr><td style="width:43em;font-family:Arial,sans-serif ">
+
+<div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spt_0">
+                <div id="image_ad_453b3204fdb33c7a8d39c6ff672958da" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spt_0&bob=1&bot=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=ebb5eb3f0606206a&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=2G0bcbLxcAqiHB9MMTYN9Q">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Molina Healthcare</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Molina-Healthcare/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:35.33750104904175px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Molina-Healthcare/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >160 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Long Beach, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Experience with <b>data</b> management and analysis preferred. Responsible for submission of delivery <b>data</b> to the State agency for premiums due, including the follow...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">11:41 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=3156d271a463d20b&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=MqkPH5h46xbqIUvbNGoD6A">Associate Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Blue Shield of California</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Blue-Shield-of-California/reviews?campaignid=JobAlertStars&jt=Associate+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:39.769230365753174px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Blue-Shield-of-California/reviews?campaignid=JobAlertStars&jt=Associate+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >182 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">California</a></span></div>
+        <div class="snippet" style="font-size:13px;">Reconcile monthly <b>data</b>. History of delivering projects on time with a dedication to detail. Blue Shield of California is looking for a junior Financial <b>Analyst</b>...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">1:56 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=639dd09c6a9dcd3e&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=u6OEU7usVOXJqZDmQXqCJw">Associate Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Molina Healthcare</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Molina-Healthcare/reviews?campaignid=JobAlertStars&jt=Associate+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:35.33750104904175px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Molina-Healthcare/reviews?campaignid=JobAlertStars&jt=Associate+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >160 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Long Beach, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Under direct supervision, the Associate <b>Data</b> <b>Analyst</b> is responsible for <b>data</b> compilation, <b>data</b> management, <b>data</b> analysis, and reporting....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">11:41 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=ca1b7f9c36f0cc64&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=5BxU4H-VG8tEAZfRuPUFEA">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Guthy|Renker</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Santa Monica, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">The <b>Analyst</b> I is responsible for gathering and reporting <b>data</b> related to specific marketing campaigns and overall brand performance....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">9:15 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=cf928feeb1c3805b&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=OErWDcMniQ9Vrarvw0cmog">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Gracenote</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Gracenote/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:44.0px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Gracenote/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >9 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Emeryville, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">We are presently looking for a <b>Data</b> <b>Analyst</b>. Analyze existing <b>data</b>, or <b>data</b> collected for the purpose of discovering patterns and relationships....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">11:10 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=4eb8f30fb3cbfe2f&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=Is5kgSBgRSamTnvKGp7lsA">ERA DATA &amp; REPORTING ANALYST</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">University of California, Davis</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/The-University-of-California/reviews?campaignid=JobAlertStars&jt=ERA+DATA+%26+REPORTING+ANALYST&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:47.59265851974487px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/The-University-of-California/reviews?campaignid=JobAlertStars&jt=ERA+DATA+%26+REPORTING+ANALYST&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >545 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Davis, CA</a></span></div>
+        <div style="font-size:13px;">
+                <nobr>$4,560 - $8,207 a month</nobr>
+            </div>
+        <div class="snippet" style="font-size:13px;">Use various application programs to extract data; Prepare statistical tables and graphics, <b>data</b> analysis and office publications....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">11:38 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=11b588ae05a7b568&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=wFxu5QNgPx_JskxZytfXTw">SQL Developer/Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">HMS</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Hms/reviews?campaignid=JobAlertStars&jt=SQL+Developer%5C%2FData+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:38.44761872291565px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Hms/reviews?campaignid=JobAlertStars&jt=SQL+Developer%5C%2FData+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >420 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Irvine, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">SQL Developer/<b>Data</b> <b>Analyst</b>. Process, coordination and scheduling of ETL <b>data</b> loads. Support for ensuring proper <b>data</b> loading and processing (24x7)....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">1:11 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=96a86158469383f1&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=X1YDzfL9RcOCldT-ZVX1YA">Business/Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Diverse Lynx</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Monterey Park, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Banking domain <b>Data</b> Warehouse Projects work experience. Extensive experience (3-5 Years) in SQLs for <b>data</b> validation. Mandatory Technical/Functional skills:....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">10:53 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=e322d52fb422bceb&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=FWxbWwnAH1C3YGse7cmYEA">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">AllTech Systems Inc.</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">San Francisco, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Expert <b>Data</b> <b>Analyst</b> Minimum Qualifications • BA/BS in Computer Science, Engineering, Math, Physics or related quantitative discipline....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">4:54 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=52f5e5fb45c26b7f&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=Ch4cs75S2UpeL9gKE6b82g">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Palo Alto Networks</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Palo-Alto-Networks/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:49.00000047683716px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Palo-Alto-Networks/reviews?campaignid=JobAlertStars&jt=Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >11 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Santa Clara, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">This <b>Data</b> <b>Analyst</b> supports the timely development and delivery of <b>data</b> quality processes for Palo Alto Networks' <b>Data</b> Quality program....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">8:09 PM</a></span></div>
+</div>
+<div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spm_0">
+                <div id="image_ad_bbe603f471fb42ad4ea09f077e9720e4" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_0&bob=1&bot=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spm_1">
+                <div id="image_ad_f144ca4f3825425e86b792d9c6b1bc04" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spm_1&bob=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=aa766b834036715e&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=fTzepI-drI-LunIUvMxF-Q">Technical Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Intuit</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Intuit/reviews?campaignid=JobAlertStars&jt=Technical+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:45.48732614517212px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Intuit/reviews?campaignid=JobAlertStars&jt=Technical+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >355 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Mountain View, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Cleansed/transformed <b>data</b> from raw <b>data</b> inputs. Intuit's Small Business Group <b>Data</b> Analytics &amp; Science group is seeking an analytically minded and experienced...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">11:14 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=835b2170e2e0a4f7&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=M5F4xYe1p8E6So9M1aXuQA">Customer Intelligence Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Young&#039;s Market Company</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Young's-Market-Company/reviews?campaignid=JobAlertStars&jt=Customer+Intelligence+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:35.838709592819214px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Young's-Market-Company/reviews?campaignid=JobAlertStars&jt=Customer+Intelligence+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >31 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Tustin, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Customer Intelligence <b>Analyst</b>. Analyze <b>data</b>, write descriptive summaries of gathered <b>data</b>, organize and prioritize research for further review by managers and...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">9:38 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=38842f14f40d7584&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=AKqo6usw5H2qm1h8Q2ccLQ">Statistical Forecasting Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Nestlé USA</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Nestl%C3%A9-1/reviews?campaignid=JobAlertStars&jt=Statistical+Forecasting+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:45.753520488739014px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Nestl%C3%A9-1/reviews?campaignid=JobAlertStars&jt=Statistical+Forecasting+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >1,562 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Glendale, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Must have experience manipulating and analyzing complex, high-volume, highly dimensional <b>data</b> from varying sources as well as driving the collection of new <b>data</b>...</div>
+    <div style="font-size:13px;">
+        <span class="job_source desktop" style="color:#080;">
+                Nestle USA</span> <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">4:06 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=bb3c8360243cc395&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=q-Kcilcm35e6iZtBDKsoXA">Junior Data Scientist</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Specific Media</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Specific-Media/reviews?campaignid=JobAlertStars&jt=Junior+Data+Scientist&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:35.200000524520874px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Specific-Media/reviews?campaignid=JobAlertStars&jt=Junior+Data+Scientist&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >5 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Irvine, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Assist in improving our <b>data</b> management, analytics, and <b>data</b> management practices. <b>Data</b> is core to Viant daily operations and insights derived from this <b>data</b>...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">4:53 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=9eca98d0cdaa6c2e&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=MvrJ4QzhXbvMgZHjbUkC0A">Research Data Analyst 1</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Stanford University</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Stanford-University/reviews?campaignid=JobAlertStars&jt=Research+Data+Analyst+1&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:46.89785194396973px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Stanford-University/reviews?campaignid=JobAlertStars&jt=Research+Data+Analyst+1&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >186 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Stanford, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">The Division of Interdisciplinary Brain Sciences is seeking a Research <b>Data</b> <b>Analyst</b> 1 to develop software/scripts to implement algorithms for <b>data</b> control, <b>data</b>...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 15</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=3ff984e01e7f8a26&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=5AKPgdCmyivwV9uKahNh1A">Data Specialist</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Intellipro Group</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Mountain View, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">As a Business <b>Analyst</b> within Play BD, you design and implement methodologies, <b>data</b> pipelines, dashboards and presentations, all while partnering with...</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">6:43 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=4624dfd655c89ee7&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=uTKKCeWblZ2E1jlIICRt3Q">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">LendUp</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">San Francisco, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Help <b>data</b> scientists and <b>data</b> engineers understand emerging needs and uses of <b>data</b> and models. Experience as an <b>analyst</b> in a support role:....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">5:23 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=873ff18e0cc8d373&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=dwRU6SmAX_s8bd7RQgiamA">Expert Data Analyst (Tableau, Teradata and SAS)</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">On-Board Services</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/On--board-Services/reviews?campaignid=JobAlertStars&jt=Expert+Data+Analyst+%28Tableau%2C+Teradata+and+SAS%29&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:40.33333420753479px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/On--board-Services/reviews?campaignid=JobAlertStars&jt=Expert+Data+Analyst+%28Tableau%2C+Teradata+and+SAS%29&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >3 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">San Francisco, CA</a></span></div>
+        <div style="font-size:13px;">
+                <nobr>$80 an hour</nobr>
+            </div>
+        <div class="snippet" style="font-size:13px;">Expert <b>Data</b> <b>Analyst</b> (Tableau, Teradata and SAS). The <b>analyst</b> will support revenue requirements and GRC teams by applying technology-based solutions to solve...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">12:37 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=f407c787195d991a&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=v2n-oNjWgEuKuZySwqPxEA">MDM (master data management ) Business Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Trianz Inc</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">San Jose, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">MDM Business <b>Analyst</b>*. MDM (master <b>data</b> management ):. 3-5 years hands on master <b>data</b> management / <b>data</b> governance experience.• Understanding of MDM concepts,...</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">2:47 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=d2adb7f2a8be71d7&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=t3G99RqlwyqgPwQdfKpDzQ">Jr Application Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Cedars-Sinai</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Cedars--sinai/reviews?campaignid=JobAlertStars&jt=Jr+Application+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:45.856247901916504px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Cedars--sinai/reviews?campaignid=JobAlertStars&jt=Jr+Application+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >160 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Beverly Hills, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Basic keyboard and <b>data</b> entry skills. Creates ad-hoc reports, using both IDX and the <b>Data</b> Warehouse, as requested by clients....</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">6:14 PM</a></span></div>
+</div>
+<div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spn_0">
+                <div id="image_ad_5b798192f609dcb6d7598a37ce0ad1da" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_0&bob=1&bot=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spn_1">
+                <div id="image_ad_c9a5033e9b357b72bade6e1bafebf504" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spn_1&bob=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=d49adcbe87804888&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=UfzqcFEGarYXdAZXYqT-2A">Time Keeper Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Eastridge Workforce Solutions - HR Division</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Irvine, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Is looking for a *Time Keeper <b>Analyst</b>*. Treats all information and <b>data</b> within the scope of the position with appropriate confidentiality and security....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">4:07 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=6b7738c7c0baf033&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=QxbYdgm31x4AbiN7Te6-9g">Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Kelly Services</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Folsom, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Currently seeking a <b>Data</b> <b>Analyst</b> in Folsom, CA. Candidate will work with a team of sales <b>analysts</b> to help them with <b>data</b> management, reporting and analysis....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">8:36 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=d995aa0e95f86471&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=P3E8gUzdpvskYfTeBfqjmg">Data Scientist</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Bidgely</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Silicon Valley, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Keen aptitude for large scale <b>data</b> analysis with a knack for identifying key insights from <b>data</b>. Dig deeper into <b>data</b>, understand characteristics of <b>data</b>,...</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 15</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=7dc47e0ac6519a3e&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=biLXNsE5tWECpEDh22fnsw">Data &amp; Analytics Modeler</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">CoreLogic</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Corelogic/reviews?campaignid=JobAlertStars&jt=Data+%26+Analytics+Modeler&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:37.16841983795166px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Corelogic/reviews?campaignid=JobAlertStars&jt=Data+%26+Analytics+Modeler&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >190 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Los Angeles, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Parse and manipulate raw, complex <b>data</b> streams to prepare for modeling. Prior work experience and exposure to business intelligence and <b>data</b> visualization tools...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 15</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=e83552f8d11b07bc&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=xjy4XGBP0gJ0Zq-1S2ymRA">Human Resources Data Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Concentrix</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Concentrix/reviews?campaignid=JobAlertStars&jt=Human+Resources+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:36.81275010108948px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Concentrix/reviews?campaignid=JobAlertStars&jt=Human+Resources+Data+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >251 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Fremont, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Performs <b>data</b> collection and analysis of Human Capital/HR <b>Data</b>. Validating and updating data; Review <b>data</b> and headcount reporting submitted by various...</div>
+    <div style="font-size:13px;">
+        <span class="job_source desktop" style="color:#080;">
+                Concentrix, Corporation</span> <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">2:41 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=f64d086d12b278d3&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=Kge3v00DTSspMaeygcqlwg">Data Scientist</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Realty Mogul</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Los Angeles, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">We have a rapidly growing <b>data</b> set and need to organize and analyze. We are currently looking for a <b>Data</b> Scientist to work full time in our Los Angeles office....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">2:49 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=29b2d3bc933332bb&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=RBMx1G6Lu8CBCLXQa8uMDw">Data/Reporting Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Randstad Technologies</span>
+            <a data-tn-element="reviewStars" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Randstad/reviews?campaignid=JobAlertStars&jt=Data%5C%2FReporting+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="white-space:nowrap;" ><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px; background-image: url(http://www.indeed.com/images/cmp/star_sm_off.png); margin: 0 0.25em;"><span style="display: -moz-inline-box; display:inline-block; width: 55px; height: 11px; line-height: 11px;  background-image: url(http://www.indeed.com/images/cmp/star_sm_on.png); width:41.02725958824158px;"><!-- --></span></span></a>
+<a data-tn-element="reviewLink" data-tn-variant="JobAlertStars" class="turnstileLink desktop" href="http://www.indeed.com/cmp/Randstad/reviews?campaignid=JobAlertStars&jt=Data%5C%2FReporting+Analyst&from=ja&alid=b90a9a3a97a5c5f0"  style="color:#77C; cursor:pointer; text-decoration:underline; white-space:nowrap;" / >3,852 reviews</a>
+ -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">El Segundo, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Work with IT business <b>analysts</b> to implement <b>data</b> verification processes, resolutions and system enhancements. Coordinate with the <b>data</b> resolution call center in...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">2:10 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=47e931f02c4a61c3&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=1KZWKJcEH24_QoETZOAC3A">Business Analyst</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">360 IT Professionals</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Fremont, CA</a></span></div>
+        <div style="font-size:13px;">
+                <nobr>$80,000 a year</nobr>
+            </div>
+        <div class="snippet" style="font-size:13px;">Business <b>Analyst</b> /Business Systems <b>Analyst</b>*. <b>Data</b> and Reporting. The ideal candidate must be passionate about delivering results, can learn quickly, is self...</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">1:24 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=8e2aee65fdfa4c95&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=IlVsIFKDvtQZ8tqKcAIRpA">Data Scientist</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Ipsy</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">San Mateo, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Ipsy is looking for a creative and deeply curious <b>data</b> scientist to join our team! Ipsy was co-founded in 2011 by Michelle Phan, YouTube’s biggest beauty...</div>
+    <div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">8:06 PM</a></span></div>
+</div>
+<div class="job tap_item" style="margin-bottom:10px;">
+    <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=5f24f431d6831755&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=YgZbRVot13j5i-Vu5EovXg">DATA ANALYST</a></div>
+    <div style="font-size:13px;" class="job_company_location_wrapper">
+        <span class="job_company">Login Consulting Services Inc.</span>
+             -
+        <span style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Pasadena, CA</a></span></div>
+        <div class="snippet" style="font-size:13px;">Common skill set (tools and <b>data</b> systems) among all <b>data</b> <b>analysts</b>. Ø <b>Data</b> Quality (<b>Data</b> Profiling, <b>Data</b> Cleansing)....</div>
+    <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+        <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">7:12 PM</a></span></div>
+</div>
+<div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spb_0">
+                <div id="image_ad_c81a1d9cc4b0e2044616807c0408f866" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_0&bob=1&bot=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spb_1">
+                <div id="image_ad_815ed464421f676d23ac69779a9c892a" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_1&bob=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    <div class="image_ad_wrapper">
+            <a href="http://www.indeed.com/ja/clk?q=data+analyst&l=California&tk=19vb96v1k1q7m8n3&alid=b90a9a3a97a5c5f0&from=ja&slid=spb_2">
+                <div id="image_ad_4b544c8fb756d628ff2d86e9ab3aba93" >
+                    <img class="image_ad_desktop" style="max-width: 688px; height: auto;" src="http://www.indeed.com/ja/imp.gif?q=data+analyst&l=California&hl=en&tk=19vb96v1k1q7m8n3&ld=spb%3A3%2Cspt%3A1%2Cspm%3A2%2Cspn%3A2&publisher=pub-indeed&alertEmail=sriramchander%40gmail.com&aluidhash=b553019e5abdb80705f322d0acf3ae06&eh=mlf409r0ku&slid=spb_2&bob=1&retina=1" border="0">
+                    </div>
+            </a>
+        </div>
+    </td></tr></table>
+<!--END-->
+<!--ON_RESULTS_END-->
+<div style="font-size:13px;" class="job_count desktop">Jobs <b>1-30</b> of <b>274 new jobs</b><br/><br/></div>
+        <div id="bot_view_jobs_bar" class="tap_item" style="margin-bottom:1em; font-size:13px; "> <a id="bot_view_jobs_label" style="text-decoration: none; color:#000; padding-right:2px; cursor:default;" href="http://www.indeed.com/jobs?q=data+analyst&l=California&fromage=1&hl=en&fr=b&of=1&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts">View jobs:</a>
+    <a id="bot_view_jobs_link" href="http://www.indeed.com/jobs?q=data+analyst&l=California&fromage=1&hl=en&fr=b&of=1&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts">since yesterday</a> <a class="desktop" href="http://www.indeed.com/jobs?q=data+analyst&l=California&fromage=7&hl=en&fr=b&of=1&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts">for last 7 days</a> <a class="desktop" href="http://www.indeed.com/jobs?q=data+analyst&l=California&hl=en&fr=b&of=1&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts">all jobs</a>
+</div>
+<hr class="desktop"noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+    <div id="recJobs" style="width:43em; font-family: Arial, sans-serif">
+         <div id="recJobsHeadText" class="section_header" style="margin-bottom: 1em; margin-top: 1em; font-size:18px;">
+             Recent jobs that you may be interested in:</div>
+         <div id="recJobContents">
+         <div class="job tap_item" style="margin-bottom: 10px;">
+                <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=3fdb8602bea1f770&amp;from=jarecjobs&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=2G0bcbLxcAqiHB9MMTYN9Q">Data Scientist, New Graduate</a></div>
+                <div style="font-size:13px;" class="job_company_location_wrapper">
+                    <span class="job_company">Groupon - </span><span style="color:#666"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Palo Alto, CA</a></div>
+                <div class="snippet" style="font-size:13px;">Groupon is currently at the exciting intersection of local and online commerce, mobile, personalization and discovery. We are looking for the next wave of</div>
+                <div style="font-size:13px;">
+                    <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 9</a></span>
+                </div>
+             </div>
+         <div class="job tap_item" style="margin-bottom: 10px;">
+                <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=4c4c334b4099eaea&amp;from=jarecjobs&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=MqkPH5h46xbqIUvbNGoD6A">Intern - People Analytics</a></div>
+                <div style="font-size:13px;" class="job_company_location_wrapper">
+                    <span class="job_company">Genentech - </span><span style="color:#666"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">South San Francisco, CA</a></div>
+                <div class="snippet" style="font-size:13px;">Attention to detail*. People Analytics Co-Op Come join the newly formed Genentech People Analytics team as we build the foundation to:....</div>
+                <div style="font-size:13px;">
+                    <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Sep 4</a></span>
+                </div>
+             </div>
+         <div class="job tap_item" style="margin-bottom: 10px;">
+                <div style="font-size:13px;"><a class="jobtitle tap_item_link" href="http://www.indeed.com/rc/clk?jk=7e86c645de0e0e19&amp;from=jarecjobs&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=sW-vM86xPV5FSo-z0X6I6w">Business Analytics Analyst - SQL</a></div>
+                <div style="font-size:13px;" class="job_company_location_wrapper">
+                    <span class="job_company">Experis - </span><span style="color:#666"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Milpitas, CA</a></div>
+                <div class="snippet" style="font-size:13px;">Title: Business Analytics Analyst Location: San Jose, CA Duration: 6 mos+ (renewable per quarter) Experis is looking for a highly results-oriented, creative</div>
+                <div style="color:#F60; font-size:13px;">Easily apply</div><div style="font-size:13px;">
+                    <span class="job_age" style="color:#666;"><a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;">Aug 29</a></span>
+                </div>
+             </div>
+         </div>
+    </div>
+<div id="p10dRecPromo" class="tap_item" style="margin-bottom: 2em; margin-top: 1em; margin-left: 0.5em">
+        <span id="p10d_promo_decoration" style='font-weight:bold;color:#f60;line-height: 0.5; font-size:13px;'>&raquo;</span>
+        <a id="p10d_promo_link" class="tap_item_link" style="font-size:13px; "href="http://www.indeed.com/recommendedjobs?key=-7800354899811663598&tk=19vb96v1k1q7m8n3&from=ja&alid=b90a9a3a97a5c5f0">View all recommended jobs</a>
+    </div>
+<div id="follow_cmp_promo" class="show-pc-promo show-mobile-promo" style="margin-bottom:25px;">
+    <div style="margin-bottom:15px;">
+        Get job updates from these companies</div>
+    <div style="font-size:small;margin-bottom: 10px;" class="show-pc-button show-mobile-button">
+            <div id="followButtonWrapper" style="display:inline-block; margin-right:10px;">
+            <span style="width:auto;padding-right:0;border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;">
+                <span style="border-top:1px solid #69F;display:inline-block;padding:4px;background:#2B57D5;">
+                    <a href="http://www.indeed.com/cmp/Randstad?msg=a%3DfolCmp%26email%3Dsriramchander%2540gmail.com%26sig%3Ddb3aaf54a8d1f16e130151ecb5b6d8d3%26followCompany%3Df816ce706ad2ebe9&campaignid=jobalertfollowmobile2&from=ja&alid=b90a9a3a97a5c5f0&jaclick=folbtnc&tk=19vb96v1k1q7m8n3" id="followButton" style="background:transparent;border:0;color:#ffffff;margin:0;padding:4px 4px;cursor:pointer;text-decoration:none;font-size:15px;">Follow</a>
+                </span>
+            </span>
+            </div>
+
+            <div id="followButtonCaption" style="display: inline-block;white-space:normal;max-width:60%;">
+                Randstad</div>
+        </div>
+    <div style="font-size:small;margin-bottom: 10px;" class="show-pc-button show-mobile-button">
+            <div id="followButtonWrapper" style="display:inline-block; margin-right:10px;">
+            <span style="width:auto;padding-right:0;border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;">
+                <span style="border-top:1px solid #69F;display:inline-block;padding:4px;background:#2B57D5;">
+                    <a href="http://www.indeed.com/cmp/Nestl%C3%A9-1?msg=a%3DfolCmp%26email%3Dsriramchander%2540gmail.com%26sig%3D5a36c2f23e7dfea09ea46dcabfd59f20%26followCompany%3D33b3265a9e6ccb65&campaignid=jobalertfollowmobile2&from=ja&alid=b90a9a3a97a5c5f0&jaclick=folbtnc&tk=19vb96v1k1q7m8n3" id="followButton" style="background:transparent;border:0;color:#ffffff;margin:0;padding:4px 4px;cursor:pointer;text-decoration:none;font-size:15px;">Follow</a>
+                </span>
+            </span>
+            </div>
+
+            <div id="followButtonCaption" style="display: inline-block;white-space:normal;max-width:60%;">
+                Nestlé</div>
+        </div>
+    <div style="font-size:small;margin-bottom: 10px;" class="show-pc-button show-mobile-button">
+            <div id="followButtonWrapper" style="display:inline-block; margin-right:10px;">
+            <span style="width:auto;padding-right:0;border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;">
+                <span style="border-top:1px solid #69F;display:inline-block;padding:4px;background:#2B57D5;">
+                    <a href="http://www.indeed.com/cmp/The-University-of-California?msg=a%3DfolCmp%26email%3Dsriramchander%2540gmail.com%26sig%3De3b6d664ee89e3c5e7d288e97865af8b%26followCompany%3Dce804b58226f3a5f&campaignid=jobalertfollowmobile2&from=ja&alid=b90a9a3a97a5c5f0&jaclick=folbtnc&tk=19vb96v1k1q7m8n3" id="followButton" style="background:transparent;border:0;color:#ffffff;margin:0;padding:4px 4px;cursor:pointer;text-decoration:none;font-size:15px;">Follow</a>
+                </span>
+            </span>
+            </div>
+
+            <div id="followButtonCaption" style="display: inline-block;white-space:normal;max-width:60%;">
+                The University of California</div>
+        </div>
+    </div>
+<hr noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<ul id="alert_actions" style="margin-top:0.5em;margin-bottom:1em;margin-left:1.5em;padding-left:0">
+    <li style="margin-bottom:0.25em"><font size="-1"><a href="http://www.indeed.com/alert/manage/b90a9a3a97a5c5f0?hl=en&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts&fr=b&of=1">Edit</a> this Job Alert</font></li>
+    <li style="margin-bottom:0.25em"><font size="-1"><a href="http://www.indeed.com/alert/cancel/b90a9a3a97a5c5f0?hl=en&tk=19vb96v1k1q7m8n3&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts">Cancel</a> this Job Alert</font></li>
+        </ul>
+<hr noshade size="1" style="color:#ccc;background-color:#ccc;border-color:#ccc">
+<div class="indeed_footer"><style type="text/css">
+    .alert_footer_company_info a font {
+        color: #000 !important;
+    }
+</style>
+<div style="margin-left:6px;padding-top:12px;font-size:10px;color:#000;" class="alert_footer_company_info">
+    <a href class="nolink" style="text-decoration:none;color:inherit;cursor:default;"><a href="http://www.indeed.com"><font color="#2164f3"><b>Indeed</b></font></a> - one search. all jobs. | 7501 N. Capital of Texas Hwy, Building B, Austin, TX 78731</a></div></div>
+</div>
+<img src="http://www.indeed.com/imgping?type=ja&tk=19vb96v1k1q7m8n3&aluidhash=b553019e5abdb80705f322d0acf3ae06" height="1" width="1">
+<div id="responsive_css_ping"></div>
+</body></html>

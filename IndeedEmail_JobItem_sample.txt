@@ -1,0 +1,10 @@
+﻿http://www.indeed.com/viewjob?jk=ebb5eb3f0606206a&tk=19vb96v1k1q7m8n3&from=ja&alid=b90a9a3a97a5c5f0&utm_source=jobseeker_emails&utm_medium=email&utm_campaign=job_alerts
+
+
+http://www.indeed.com/rc/clk?jk=ebb5eb3f0606206a&amp;from=ja&amp;alid=b90a9a3a97a5c5f0&amp;tk=19vb96v1k1q7m8n3&amp;qd=RnZhMybXSk4M3QtTVGXWodpC-HylMtrANd9KOyLwkfBJenHoca6B6uc4L2r0Qm15EUOaQeJqXibwk3bR9HL5OrkR6v67wSek2VWz-1JUQyITL3IWU7-o5heyuRFULTlD&amp;rd=2G0bcbLxcAqiHB9MMTYN9Q
+
+jk=ebb5eb3f0606206a : Job Click Element
+from=ja
+alid=b90a9a3a97a5c5f0
+
+jk&from&alid&utm_source&utm_medium&utm_campaign

@@ -1,0 +1,13 @@
+﻿parsed_body by regular expression
+
+reg will be on 
+match_object = re.search(regexp,messagebody)
+match_object.group(1)
+
+jobdetails = []
+job_object = {}
+for k in item_matches
+	job_object[field] = k
+	
+{jobkey:(get by regex),jobtitle:(get by regex)}
+indeedjobpage <- jobkey
